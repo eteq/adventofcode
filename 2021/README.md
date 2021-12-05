@@ -1,0 +1,1 @@
+Ok I'm going crazy this year.  Lets try rust... in a notebook! See https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/ for a good starting point (although I'm going to use a venv instead.)
